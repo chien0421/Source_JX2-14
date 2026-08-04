@@ -6,3 +6,21 @@
 *.txt.bak
 *.ini.bk
 *.txt.bk
+
+# OS
+Thumbs.db
+.DS_Store
+
+# VSCode local workspace
+.vscode/*.code-workspace
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.bak
+
+# Python cache
+__pycache__/
+*.pyc
